@@ -1,5 +1,5 @@
 # hello-world
-Learning always comes from optimization
+Learning always comes to a stubborn mind.
 In our world to make thing work we need to have a complete understanding of the phenomenon
 which can be accomploshed by 2 ways
 1. Bound the phenomenon in terms of mathematics and derive its equations to govern its behaviour
